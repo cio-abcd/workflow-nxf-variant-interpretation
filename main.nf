@@ -1,12 +1,12 @@
 #!/usr/bin/env nextflow
 /*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    nf-core/cioabcdpipeline
+    CIO-ABCD Interpretation Pipeline
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    Github : https://github.com/nf-core/cioabcdpipeline
+    Github : https://github.com/cio-abcd/workflow_nextflow_CIOABCD_interpretationpipeline
 
-    Website: https://nf-co.re/cioabcdpipeline
-    Slack  : https://nfcore.slack.com/channels/cioabcdpipeline
+    Website: ...
+    Slack  : ...
 ----------------------------------------------------------------------------------------
 */
 
