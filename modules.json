@@ -5,6 +5,11 @@
         "https://github.com/nf-core/modules.git": {
             "modules": {
                 "nf-core": {
+                    "ensemblvep/vep": {
+                        "branch": "master",
+                        "git_sha": "bea3ca998816a7f812b1bbbcb27c3a9ffbac0706",
+                        "installed_by": ["modules"]
+                    },
                     "picard/liftovervcf": {
                         "branch": "master",
                         "git_sha": "0f8a77ff00e65eaeebc509b8156eaa983192474b",
