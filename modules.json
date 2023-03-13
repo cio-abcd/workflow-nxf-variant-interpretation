@@ -1,0 +1,20 @@
+{
+    "name": "nf-core/cioabcdpipeline",
+    "homePage": "https://github.com/nf-core/cioabcdpipeline",
+    "repos": {
+        "https://github.com/nf-core/modules.git": {
+            "modules": {
+                "nf-core": {
+                    "picard/liftovervcf": {
+                        "branch": "master",
+                        "git_sha": "0f8a77ff00e65eaeebc509b8156eaa983192474b",
+                        "installed_by": ["modules"]
+                    }
+                }
+            },
+            "subworkflows": {
+                "nf-core": {}
+            }
+        }
+    }
+}
